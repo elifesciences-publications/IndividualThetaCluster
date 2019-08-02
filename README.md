@@ -1,6 +1,6 @@
 # IndividualThetaCluster
  
-This code (includes Step1, Step2, Step3)show how cluster individual theta cycle of LFP recorded in hippocampal CA1 pyrmidal layer into four clusters:slow gamma; median gamma; early high gamma and late high gamma through k-means clustering;
+This code (Demo_SingleThetaCluster.m includes Step1, Step2, Step3)show how cluster individual theta cycle of LFP recorded in hippocampal CA1 pyrmidal layer into four clusters:slow gamma; median gamma; early high gamma and late high gamma through k-means clustering;
 
 The code corresponds the method we proposed in the publication at elife 2019; https://elifesciences.org/articles/44320
 
